@@ -78,7 +78,7 @@
 * 🧠 Experienced in integrating LLM-powered capabilities into .NET applications and enterprise workflows
 * 🏗️ Interested in scalable system architecture, cloud-native development, and AI-powered applications
 * 💬 Ask me about: ASP.NET Core, C#, Angular, Azure, Generative AI, RAG, secure API design, and system architecture
-* 📫 Reach me: **[malharipawar05@gmail.com](mailto:malharipawar05@gmail.com)**
+* 📫 Reach me: **[malharipawar05@gmail.com](mailto:malharipawarr27@gmail.com)**
 
 ---
 
@@ -92,17 +92,32 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MalhariPawar&show_icons=true&theme=tokyonight" alt="Malhari's GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MalhariPawar&theme=github-compact&hide_border=true&area=true" width="100%" alt="Malhari Pawar GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MalhariPawar&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalhariPawar&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="170" alt="Top Languages" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=MalhariPawar&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true" height="170" alt="GitHub Statistics" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MalhariPawar&theme=transparent&hide_border=true" width="70%" alt="GitHub Contribution Streak" />
 </p>
 
 ---
+
+### 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MalhariPawar/MalhariPawar/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
+---
+
 
 ### 🤝 Let's Connect
 
@@ -110,7 +125,7 @@
   <a href="https://github.com/MalhariPawar">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:malharipawar05@gmail.com">
+  <a href="mailto:malharipawarr27@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
