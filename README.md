@@ -92,28 +92,19 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MalhariPawar&theme=github-compact&hide_border=true&area=true" width="100%" alt="Malhari Pawar GitHub Activity Graph" />
+  <a href="https://github.com/MalhariPawar">
+    <img src="https://github-readme-stats.vercel.app/api?username=MalhariPawar&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" width="52%" alt="GitHub Statistics" />
+  </a>
+  <a href="https://github.com/MalhariPawar">
+    <img src="https://streak-stats.demolab.com?user=MalhariPawar&theme=transparent&hide_border=true&border_radius=10" width="42%" alt="GitHub Contribution Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalhariPawar&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="170" alt="Top Languages" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=MalhariPawar&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true" height="170" alt="GitHub Statistics" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MalhariPawar&theme=transparent&hide_border=true" width="70%" alt="GitHub Contribution Streak" />
-</p>
-
----
-
-### 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MalhariPawar/MalhariPawar/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  <sub>Open-source projects • Contributions • Development activity</sub>
 </p>
 
 ---
