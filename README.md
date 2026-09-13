@@ -92,26 +92,6 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/MalhariPawar">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=MalhariPawar&theme=github-compact&hide_border=true"
-      width="95%"
-      alt="GitHub Contribution Activity"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MalhariPawar">
-    View my GitHub profile and contribution history →
-  </a>
-</p>
-
----
-
 ### 🤝 Let's Connect
 
 <p align="center">
